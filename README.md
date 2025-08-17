@@ -2,6 +2,7 @@
 
 ## 🧑‍💻 About Me
 - I'm a Computer Engineering student at KMITL
+- I'm 3nd year
 
 ---
 
