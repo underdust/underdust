@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="600" width="600" src="https://s1.zerochan.net/Kaoru.Hana.Wa.Rin.To.Saku.600.4553902.jpg" />
+</div>
+
 # 👋 Hi there, My name is Taifoon!
 
 ## 🧑‍💻 About Me
@@ -5,10 +9,6 @@
 - I'm 3nd year
 
 ---
-
-<div align="center">
-  <img height="600" width="600" src="https://s1.zerochan.net/Kaoru.Hana.Wa.Rin.To.Saku.600.4553902.jpg" />
-</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=underdust&label=Profile%20views&color=0e75b6&style=flat" alt="underdust" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=underdust" alt="underdust" /></a> </p>
