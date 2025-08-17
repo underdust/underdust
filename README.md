@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-  <img height="400" src="[https://c4.wallpaperflare.com/wallpaper/727/373/131/bocchi-the-rock-cherry-blossom-ultrawide-hd-wallpaper-thumb.jpg](https://www.facebook.com/photo/?fbid=330317083474759&set=p.330317083474759)"  />
+  <img height="400" src="https://www.facebook.com/photo/?fbid=330317083474759&set=p.330317083474759"  />
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=underdust&label=Profile%20views&color=0e75b6&style=flat" alt="underdust" /> </p>
