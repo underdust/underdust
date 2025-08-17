@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-  <img height="600" width="800" src="https://s1.zerochan.net/Kaoru.Hana.Wa.Rin.To.Saku.600.4553902.jpg" />
+  <img height="600" width="700" src="https://s1.zerochan.net/Kaoru.Hana.Wa.Rin.To.Saku.600.4553902.jpg" />
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=underdust&label=Profile%20views&color=0e75b6&style=flat" alt="underdust" /> </p>
