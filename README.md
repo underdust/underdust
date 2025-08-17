@@ -6,13 +6,7 @@
 ---
 
 <div align="center">
-  <a href="https://tenor.com/th/view/kaoruko-waguri-kaoruko-kaoru-hana-wa-rin-to-saku-waguri-kaoruko-the-fragrant-flower-blooms-with-dignity-gif-5607173778587031559">
-    <img src="assets/kaoruko.gif" alt="Kaoruko Waguri — The Fragrant Flower Blooms with Dignity" height="180">
-  </a>
-</div>
-
-<div align="center">
-  <img height="400" src="https://c4.wallpaperflare.com/wallpaper/727/373/131/bocchi-the-rock-cherry-blossom-ultrawide-hd-wallpaper-thumb.jpg"  />
+  <img height="400" src="[https://c4.wallpaperflare.com/wallpaper/727/373/131/bocchi-the-rock-cherry-blossom-ultrawide-hd-wallpaper-thumb.jpg](https://www.facebook.com/photo/?fbid=330317083474759&set=p.330317083474759)"  />
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=underdust&label=Profile%20views&color=0e75b6&style=flat" alt="underdust" /> </p>
