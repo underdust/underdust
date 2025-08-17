@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="800" width="800" src="https://media1.tenor.com/m/TdCu1_KQmAcAAAAC/kaoruko-waguri-kaoruko.gif" />
+  <img height=600" width="600" src="https://media1.tenor.com/m/TdCu1_KQmAcAAAAC/kaoruko-waguri-kaoruko.gif" />
 </div>
 
 # 👋 Hi there, My name is Taifoon!
