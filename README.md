@@ -1,8 +1,7 @@
+# 👋 Hi there, My name is Taifoon!
 <div align="center">
   <img height="400" width="600" src="https://media1.tenor.com/m/TdCu1_KQmAcAAAAC/kaoruko-waguri-kaoruko.gif"  />
 </div>
-
-# 👋 Hi there, My name is Taifoon!
 
 ## 🧑‍💻 About Me
 - I'm a Computer Engineering student at KMITL
