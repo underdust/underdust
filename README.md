@@ -4,6 +4,14 @@
 - I'm a Computer Engineering student at KMITL
 
 ---
+
+<div align="center">
+  <a href="https://tenor.com/th/view/kaoruko-waguri-kaoruko-kaoru-hana-wa-rin-to-saku-waguri-kaoruko-the-fragrant-flower-blooms-with-dignity-gif-5607173778587031559">
+    <img src="assets/kaoruko.gif" alt="Kaoruko Waguri — The Fragrant Flower Blooms with Dignity" height="180">
+  </a>
+</div>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=underdust&label=Profile%20views&color=0e75b6&style=flat" alt="underdust" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=underdust" alt="underdust" /></a> </p>
 
