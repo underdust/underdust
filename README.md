@@ -1,8 +1,5 @@
 <div align="center">
-  <img height="600" src="https://s1.zerochan.net/Kaoru.Hana.Wa.Rin.To.Saku.600.4553902.jpg" />
-</div>
-<div align="center">
-  <img height="1000" width="1000" src="https://media1.tenor.com/m/TdCu1_KQmAcAAAAC/kaoruko-waguri-kaoruko.gif" />
+  <img height="800" width="800" src="https://media1.tenor.com/m/TdCu1_KQmAcAAAAC/kaoruko-waguri-kaoruko.gif" />
 </div>
 
 # 👋 Hi there, My name is Taifoon!
