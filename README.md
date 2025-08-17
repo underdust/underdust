@@ -1,6 +1,9 @@
 <div align="center">
   <img height="600" width="600" src="https://s1.zerochan.net/Kaoru.Hana.Wa.Rin.To.Saku.600.4553902.jpg" />
 </div>
+<div align="center">
+  <img height="600" src="https://tenor.com/th/view/kaoruko-waguri-kaoruko-kaoru-hana-wa-rin-to-saku-waguri-kaoruko-the-fragrant-flower-blooms-with-dignity-gif-5607173778587031559" />
+</div>
 
 # 👋 Hi there, My name is Taifoon!
 
