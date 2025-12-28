@@ -1,6 +1,6 @@
 # 👋 Hi there, My name is Taifoon!
 <div align="center">
-  <img height="400" width="600" src="https://media1.tenor.com/m/WK6XjGnqTmAAAAAC/zhao-zzz-zenless-zone-zero.gif" />
+  <img height="400" width="800" src="https://media1.tenor.com/m/WK6XjGnqTmAAAAAC/zhao-zzz-zenless-zone-zero.gif" />
 </div>
 
 ## 🧑‍💻 About Me
