@@ -31,8 +31,8 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" height="36" alt="Docker" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" height="36" alt="Git" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" height="36" alt="Postman" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/blob/main/icons/tailwind_css.png" height="36" alt="TailwindCSS" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/blob/main/icons/flutter.png" height="36" alt="Flutter" />
+  <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/tailwind_css.png" height="36" alt="TailwindCSS" />
+  <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/flutter.png" height="36" alt="Flutter" />
 </p>
 
 ---
