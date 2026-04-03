@@ -1,7 +1,7 @@
 # 👋 Hi there, My name is Taifoon!
-<div align="center">
+<!-- <div align="center">
   <img width="600" src="https://media1.tenor.com/m/WK6XjGnqTmAAAAAC/zhao-zzz-zenless-zone-zero.gif" />
-</div>
+</div> -->
 
 ## 🧑‍💻 About Me
 - I'm a Computer Engineering student at KMITL
