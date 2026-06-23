@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 About Me
 - I'm a Computer Engineering student at KMITL
-- I'm 3rd year
+- I'm 4th year
 - Contact me at taifoon2547@gmail.com
 
 ---
